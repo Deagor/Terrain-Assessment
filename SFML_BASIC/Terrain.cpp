@@ -1,7 +1,5 @@
 #include "stdafx.h"
-#include "SFML/OpenGL.hpp"
 #include "Terrain.h"
-#include <cmath>
 
 Terrain::Terrain(void)
 {
